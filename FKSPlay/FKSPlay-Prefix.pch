@@ -1,0 +1,18 @@
+//
+//  FKSPlay-Prefix.pch
+//  FKSPlay
+//
+//  Created by Apple on 12/19/14.
+//  Copyright (c) 2014 com.htam86. All rights reserved.
+//
+
+#define rgbaColor(r,g,b,a)   [UIColor colorWithRed:r/255 green:g/255 blue:b/255 alpha:a]
+#define kNavigationbarColor rgbaColor(64.0,74.0,86.0,1)
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <CoreData/CoreData.h>
+#endif
+
+

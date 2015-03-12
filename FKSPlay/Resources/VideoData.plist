@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>listVideos</key>
+		<array>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/TheEmpressOfChina_2014_China_B_Tap01.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 1</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/TheEmpressOfChina_2014_China_B_Tap01.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 2</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/TheEmpressOfChina_2014_China_B_Tap02.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video02.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 1</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/TheEmpressOfChina_2014_China_B_Tap01.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?</string>
+				<key>video_thumb_image</key>
+				<string>video03.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 3</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap03.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video04.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 4</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap04.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video05.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 5</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap05.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 6</string>
+			</dict>
+		</array>
+		<key>category_title</key>
+		<string>Phim Hanh Dong</string>
+	</dict>
+	<dict>
+		<key>listVideos</key>
+		<array>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap06.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 1</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap07.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 2</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/TheEmpressOfChina_2014_China_B_Tap02.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video02.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 1</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap08.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video03.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 3</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap09.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video04.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 4</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap10.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video05.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 5</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap11.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 6</string>
+			</dict>
+		</array>
+		<key>category_title</key>
+		<string>Phim Hoat Hinh</string>
+	</dict>
+	<dict>
+		<key>listVideos</key>
+		<array>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap12.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 1</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/TheEmpressOfChina_2014_China_B_Tap01.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 2</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap13.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video02.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 1</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap14.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video03.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 3</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap15.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video04.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 4</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap16.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video05.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 5</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/Vo_tac_thien_tap17.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 6</string>
+			</dict>
+		</array>
+		<key>category_title</key>
+		<string>Phim Tinh Cam</string>
+	</dict>
+	<dict>
+		<key>listVideos</key>
+		<array>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/theempressofchina/TheEmpressOfChina_2014_China_B_Tap01.mp4/playlist.m3u8?video_id=549b8dff17dc133275e4713d?</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 1</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/thedeerandthecauldron_2014/TanLocDinhKy_Tap02.mp4/playlist.m3u8?video_id=549ce4ea17dc133275e47177?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 2</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/thedeerandthecauldron_2014/TanLocDinhKy_Tap03.mp4/playlist.m3u8?video_id=549ce4ea17dc133275e47177?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video02.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 1</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/thedeerandthecauldron_2014/Tanlocdinhky_Sub_ep4.mp4/playlist.m3u8?video_id=549ce4ea17dc133275e47177?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video03.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 3</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/thedeerandthecauldron_2014/Tanlocdinhky_Sub_ep5.mp4/playlist.m3u8?video_id=549ce4ea17dc133275e47177?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video04.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 4</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/thedeerandthecauldron_2014/Tanlocdinhky_Sub_ep6.mp4/playlist.m3u8?video_id=549ce4ea17dc133275e47177?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video05.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 5</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/thedeerandthecauldron_2014/Tanlocdinhky_Sub_ep7.mp4/playlist.m3u8?video_id=549ce4ea17dc133275e47177?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 6</string>
+			</dict>
+		</array>
+		<key>category_title</key>
+		<string>Phim Hai</string>
+	</dict>
+	<dict>
+		<key>listVideos</key>
+		<array>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/thedeerandthecauldron_2014/Tanlocdinhky_Sub_ep8.mp4/playlist.m3u8?video_id=549ce4ea17dc133275e47177?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 1</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/thedeerandthecauldron_2014/Tanlocdinhky_Sub_ep9.mp4/playlist.m3u8?video_id=549ce4ea17dc133275e47177?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 2</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/Alexander/Alexander_2004_Germany_480.mp4/playlist.m3u8?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video02.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 1</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/riseofthelegend/RiseOfTheLegend_2014_HongKong.mp4/playlist.m3u8?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video03.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 3</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/livev/smil:vtv1hd_hls.smil/playlist.m3u8?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video04.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 4</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/event/vtv6HD/playlist.m3u8?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video05.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 5</string>
+			</dict>
+			<dict>
+				<key>video_duration_time</key>
+				<integer>0</integer>
+				<key>video_url</key>
+				<string>http://vod.cdn.fptplay.net/livev/smil:vtv3hd_hls.smil/playlist.m3u8?token=c338VydmVyX3RpbWU9MTQwMjYxNzIyNCZoYXNoX3ZhbHVlPTg0ZTQ3YzVlNmY0ZDhiMTkzODIyMTY3M2ZkYTFmZjIyJnZhbGlkX21pbnV0ZXM9MTQ0MA&amp;did=3f31d609b9eaa18</string>
+				<key>video_thumb_image</key>
+				<string>video01.png</string>
+				<key>video_view_counts</key>
+				<integer>0</integer>
+				<key>video_title</key>
+				<string>Video 6</string>
+			</dict>
+		</array>
+		<key>category_title</key>
+		<string>Phim Co Trang</string>
+	</dict>
+</array>
+</plist>

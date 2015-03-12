@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6249" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6243"/>
+    </dependencies>
+    <scenes>
+        <!--Main View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController storyboardIdentifier="MainViewController" id="BYZ-38-t0r" customClass="MainViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" showsSelectionImmediatelyOnTouchBegin="NO" rowHeight="140" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="m3p-lG-Ztf">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="0.62953353099999998" blue="0.18404995439999999" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstItem="m3p-lG-Ztf" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="Lun-zs-2aA"/>
+                            <constraint firstItem="m3p-lG-Ztf" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="R4L-in-YHw"/>
+                            <constraint firstItem="m3p-lG-Ztf" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="VLI-7g-Am1"/>
+                            <constraint firstItem="m3p-lG-Ztf" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" id="Z9v-VB-yhV"/>
+                            <constraint firstAttribute="trailing" secondItem="m3p-lG-Ztf" secondAttribute="trailing" id="aDS-cF-dtW"/>
+                            <constraint firstAttribute="bottom" secondItem="m3p-lG-Ztf" secondAttribute="bottom" id="aVe-op-Ngz"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="m3p-lG-Ztf" secondAttribute="bottom" id="rHl-U4-w84"/>
+                            <constraint firstAttribute="trailing" secondItem="m3p-lG-Ztf" secondAttribute="trailing" id="sDN-Pn-moJ"/>
+                            <constraint firstItem="m3p-lG-Ztf" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="yzz-LY-9IW"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="R4L-in-YHw"/>
+                                <exclude reference="VLI-7g-Am1"/>
+                                <exclude reference="Z9v-VB-yhV"/>
+                                <exclude reference="sDN-Pn-moJ"/>
+                                <exclude reference="rHl-U4-w84"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <outlet property="tblCategory" destination="m3p-lG-Ztf" id="6Z2-tv-ZD8"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>

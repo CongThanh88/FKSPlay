@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>listItems</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>ic_Live_TV.png</string>
+				<key>title</key>
+				<string>Live TV</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>ic_TV_Show.png</string>
+				<key>title</key>
+				<string>TV Show</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>ic_Phim.png</string>
+				<key>title</key>
+				<string>Phim</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>ic_The_Thao.png</string>
+				<key>title</key>
+				<string>Thể Thao</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>ic_Ca_Nhac.png</string>
+				<key>title</key>
+				<string>Ca Nhạc</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>ic_Tong_Hop.png</string>
+				<key>title</key>
+				<string>Tổng Hợp</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Đăng Nhập</string>
+	</dict>
+	<dict>
+		<key>listItems</key>
+		<array>
+			<dict>
+				<key>icon</key>
+				<string>ic_Gioi_Thieu.png</string>
+				<key>title</key>
+				<string>Giới Thiệu</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>ic_Chia_Se.png</string>
+				<key>title</key>
+				<string>Chia Sẻ</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>ic_Danh_Gia.png</string>
+				<key>title</key>
+				<string>Đánh Giá</string>
+			</dict>
+		</array>
+		<key>title</key>
+		<string>Thông Tin</string>
+	</dict>
+</array>
+</plist>

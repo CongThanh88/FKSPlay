@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6249" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6243"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="CategoryCell" rowHeight="110" id="KGk-i7-Jjw" customClass="VideoCategoryTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="335" height="110"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mO8-N9-HmQ">
+                        <rect key="frame" x="8" y="3" width="191" height="19"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="19" id="YkQ-UR-ev7"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="1" green="0.62953353099999998" blue="0.18404995439999999" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mfo-Aj-cPP" customClass="ListItemsScrollView">
+                        <rect key="frame" x="8" y="28" width="319" height="85"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="86" id="7GG-Gm-ELN"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="7GG-Gm-ELN"/>
+                            </mask>
+                        </variation>
+                    </scrollView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="See all >" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CPg-Fl-6P9">
+                        <rect key="frame" x="224" y="4" width="103" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="8tR-Nt-gzG"/>
+                            <constraint firstAttribute="width" constant="103" id="pgh-3n-F9a"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" red="0.86698791060000002" green="0.53795050180000004" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="mO8-N9-HmQ" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" id="15q-eJ-aiX"/>
+                    <constraint firstAttribute="trailing" secondItem="Mfo-Aj-cPP" secondAttribute="trailing" constant="8" id="4ZX-nv-CND"/>
+                    <constraint firstItem="Mfo-Aj-cPP" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="19" id="Pb3-yT-JIe"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="mO8-N9-HmQ" secondAttribute="trailing" constant="128" id="cQg-Ce-B0X"/>
+                    <constraint firstAttribute="trailing" secondItem="CPg-Fl-6P9" secondAttribute="trailing" constant="8" id="ecE-bH-rdS"/>
+                    <constraint firstItem="Mfo-Aj-cPP" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="fYj-bb-Khg"/>
+                    <constraint firstItem="CPg-Fl-6P9" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="3" id="i0g-91-wM2"/>
+                    <constraint firstAttribute="bottom" secondItem="Mfo-Aj-cPP" secondAttribute="bottom" constant="-2" id="nfq-bu-e38"/>
+                    <constraint firstItem="mO8-N9-HmQ" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" constant="-6" id="wyG-bL-cc5"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="lblTitleCell" destination="mO8-N9-HmQ" id="nYq-pE-ZhG"/>
+                <outlet property="svListitem" destination="Mfo-Aj-cPP" id="N6E-Ia-0ge"/>
+            </connections>
+            <point key="canvasLocation" x="300.5" y="438"/>
+        </tableViewCell>
+    </objects>
+</document>
